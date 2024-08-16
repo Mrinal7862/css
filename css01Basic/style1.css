@@ -1,0 +1,21 @@
+*{
+    margin:0; 
+    padding:0;
+}
+
+h2{
+    background-color: brown;
+    color: aliceblue;
+}
+
+h3{
+    background-color: chartreuse;
+}
+
+p{
+    background-color: yellow;
+}
+
+div{
+    background-color: bisque;
+}

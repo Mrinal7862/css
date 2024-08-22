@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Selector */
 /* h1{
     color:red;
@@ -15,4 +16,23 @@
 #chintu01{
     color: orange;
     background-color: lightskyblue;
+=======
+/* Selector */
+/* h1{
+    color:red;
+    background-color: black;
+    border-radius: 10px;   
+} */
+
+/* classes and id selector */
+.first{
+    color:red;
+    background-color: black;
+    border-radius: 10px;  
+}
+
+#chintu01{
+    color: orange;
+    background-color: lightskyblue;
+>>>>>>> c8ab6feee9dd576d1e157237bc2dcb07d08adc17
 }

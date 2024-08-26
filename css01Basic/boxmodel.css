@@ -1,0 +1,15 @@
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+
+}
+
+.box h1{
+    background-color:yellow;
+    margin: 20px;
+    border:20px solid red;
+    padding: 23px;
+}

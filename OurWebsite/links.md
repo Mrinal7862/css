@@ -1,0 +1,7 @@
+-- 1st Image: https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png
+-- 2nd image: https://gmedia.playstation.com/is/image/SIEPDC/ps5-game-carousel-spider-man-3-15jan24?$800px--t$
+-- 3rd image: https://gmedia.playstation.com/is/image/SIEPDC/rise-of-the-ronin-hero-banner-mobile-01-en-30mar23?$800px--t$
+-- 4th image: https://gmedia.playstation.com/is/image/SIEPDC/ps5-games-ghost-of-tsushima-image-block-02-en-14oct21?$800px--t$
+-- 5th image: https://gmedia.playstation.com/is/image/SIEPDC/ps5-games-the-last-of-us-part-1-image-block-en-20jun22?$800px--t$
+-- 6th image: https://gmedia.playstation.com/is/image/SIEPDC/ps5-games-ratchet-and-clank-rift-apart-image-block-en-26aug22?$800px--t$
+-- 7th image: https://gmedia.playstation.com/is/image/SIEPDC/ps5-games-gt7-hub-image-block-01-en-10mar22?$800px--t$

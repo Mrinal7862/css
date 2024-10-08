@@ -100,6 +100,7 @@ main{
     margin: 5px 0px;
     padding: 3px;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
@@ -188,3 +189,95 @@ main{
     cursor: pointer;
 }
 
+/* About section */
+about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.ab h1{
+    font-family: "Honk", system-ui;
+    font-size: 49px;
+    text-decoration: underline;
+    padding: 2px;
+    font-optical-sizing:auto;
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    font-variation-settings:"MORF" 15,"SHLN" 50;
+    animation: fade 5s ease-in-out  infinite;
+
+}
+
+.par p{
+    font-size: 23px;
+    background-color: black;
+    color: white;
+    padding: 23px;
+    font-family: "Lato", sans-serif;
+}
+
+@keyframes fade {
+    0%{
+        opacity: 0;
+        top: 0;
+    }
+    25%{
+        opacity: 1;
+        top: -5px;
+    }
+    50%{
+        opacity: 0;
+        top: -10px;
+    }
+    75%{
+        opacity: 1;
+        top: -5px;
+    }
+    100%{
+        opacity: 0;
+        top: 0dvh;
+    }
+}
+
+
+/* contactus */
+contactus{
+    margin: 50px 0px 0px 0px;
+    background-color: brown;
+    width: 100%;
+    height: 100%;
+}
+
+.block{
+    height: inherit;
+    width: 100%;
+    color: white;
+    font-family: "Lato";
+}
+
+.block p{
+    font-size: 20px;
+
+    padding: 20px 0px;
+}
+.list{
+    height: inherit;
+    width: 100%;
+    color: white;
+    font-family: "Lato";
+}
+.list ul{
+    color: white;
+
+}
+.list ul li{
+    list-style-type: disc;
+    padding: 10px 0px;
+}
+.list ul li a{
+    color: white;
+}
